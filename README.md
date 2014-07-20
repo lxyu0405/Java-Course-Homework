@@ -1,4 +1,8 @@
-JavaHomework
-============
+Java Course Homework
+====================
 
-Java 书后练习题
+### It contains 10 chapter in all.
+### Every .java file is named after the relevent exercise
+
+
+> Share, Learn and No Plagiarism
